@@ -67,7 +67,7 @@
       "agreePublish": true
     },
     {
-      "id": 2,
+      "id": 3,
       "userId": 2,
       "status": "草稿",
       "updateDate": "2023/09/28 22:08",
@@ -102,65 +102,65 @@
   ],
   "qas": [
     {
+      "id": 1,
       "rentId": 1,
       "userId": 1,
-      "id": 1,
       "date": "2023/08/08",
       "content": "留言留言1"
     },
     {
+      "id": 2,
       "rentId": 1,
       "userId": 2,
-      "id": 2,
       "date": "2023/08/09",
       "content": "留言留言2"
     },
     {
+      "id": 3,
       "rentId": 2,
       "userId": 2,
-      "id": 3,
       "date": "2023/08/09",
       "content": "留言留言3"
     }
   ],
   "favorites": [
     {
+      "id": 1,
       "rentId": 1,
-      "userId": 1,
-      "id": 1
+      "userId": 1
     },
     {
+      "id": 2,
       "rentId": 2,
-      "userId": 1,
-      "id": 2
+      "userId": 1
     },
     {
+      "id": 3,
       "rentId": 1,
-      "userId": 2,
-      "id": 3
+      "userId": 2
     }
   ],
   "notification": [
     {
+      "id": 1,
       "userId": 1,
       "rentId": 1,
-      "id": 1,
       "content": "通知通知1",
       "img": "....",
       "date": "2023/08/08"
     },
     {
+      "id": 2,
       "userId": 1,
       "rentId": 2,
-      "id": 2,
       "content": "通知通知2",
       "img": "....",
       "date": "2023/08/10"
     },
     {
+      "id": 3,
       "userId": 2,
       "rentId": 1,
-      "id": 3,
       "content": "通知通知3",
       "img": "....",
       "date": "2023/08/12"
@@ -168,6 +168,9 @@
   ],
   "users": [
     {
+      "id": 1,
+      "favoriteId": 1,
+      "rentId": 1,
       "email": "test1@gmail.com",
       "password": "$2a$10$nvmuXHTJibomRm/vdx1j6OrftYIm2vS..PO8h3fzh/yRgMCSZl57C",
       "name": "陳大華",
@@ -180,12 +183,12 @@
         "email": "test2@gmail.com",
         "line": "asdddd111122"
       },
-      "about": "gagjai5ha",
-      "id": 1,
-      "favoriteId": 1,
-      "rentId": 1
+      "about": "gagjai5ha"
     },
     {
+      "id": 2,
+      "favoriteId": 1,
+      "rentId": 1,
       "email": "test2@gmail.com",
       "password": "$2a$10$nvmuXHTJibomRm/vdx1j6OrftYIm2vS..PO8h3fzh/yRgMCSZl57C",
       "name": "陳大大",
@@ -198,10 +201,7 @@
         "email": "test2@gmail.com",
         "line": "asdddd111122"
       },
-      "about": "gagjai5ha",
-      "id": 2,
-      "favoriteId": 1,
-      "rentId": 1
+      "about": "gagjai5ha"
     }
   ],
   "news": [

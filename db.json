@@ -1,0 +1,244 @@
+{
+  "rents": [
+    {
+      "id": 1,
+      "userId": 1,
+      "status": "已媒合",
+      "updateDate": "2023/09/28 22:08",
+      "view": 456,
+      "address": ["新竹市", "東區", "埔頂路一段"],
+      "floor": 7,
+      "totalFloor": 21,
+      "type": "獨立套房",
+      "title": "新竹市科學園區套房找室友",
+      "square Footage": 15,
+      "houseLayout": "1房1廳1衛",
+      "equipment": ["...", "..."],
+      "price": 20000,
+      "deposit": "一個月",
+      "priceInclude": ["...", "..."],
+      "manageFee": 777,
+      "minPeriod": "一年",
+      "needPartner": 2,
+      "identity": ["...", "..."],
+      "gender": "男性",
+      "canPet": true,
+      "canCooking": false,
+      "minAge": 18,
+      "maxAge": 40,
+      "moveInDate": "2023/11/9",
+      "lifeEquipment": ["...", "...", "..."],
+      "traffic": ["...", "...", "..."],
+      "intro": "我們是整層住家分租! 目前主臥房房客臨時要搬走所以急找室友: 水電瓦斯照帳單用人數平分 家中有貓咪會自由走動 附近有蠻多大賣場跟超市還有百貨,購買日常用品方便 室友們好相處,若有什麼問題都可以一起討論 目前10月可入住 其餘詳細可直接+line詢問!",
+      "photo": ["...", "...", "..."],
+      "agreePublish": true
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "status": "刊登中",
+      "updateDate": "2023/09/28 22:08",
+      "view": 456,
+      "address": ["新竹市", "東區", "埔頂路一段"],
+      "floor": 7,
+      "totalFloor": 21,
+      "type": "獨立套房",
+      "title": "新竹市科學園區套房找室友",
+      "square Footage": 15,
+      "houseLayout": "1房1廳1衛",
+      "equipment": ["...", "..."],
+      "price": 20000,
+      "deposit": "一個月",
+      "priceInclude": ["...", "..."],
+      "manageFee": 777,
+      "minPeriod": "一年",
+      "needPartner": 2,
+      "identity": ["...", "..."],
+      "gender": "男性",
+      "canPet": true,
+      "canCooking": false,
+      "minAge": 18,
+      "maxAge": 40,
+      "moveInDate": "2023/11/9",
+      "lifeEquipment": ["...", "...", "..."],
+      "traffic": ["...", "...", "..."],
+      "intro": "我們是整層住家分租! 目前主臥房房客臨時要搬走所以急找室友: 水電瓦斯照帳單用人數平分 家中有貓咪會自由走動 附近有蠻多大賣場跟超市還有百貨,購買日常用品方便 室友們好相處,若有什麼問題都可以一起討論 目前10月可入住 其餘詳細可直接+line詢問!",
+      "photo": ["...", "...", "..."],
+      "agreePublish": true
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "status": "草稿",
+      "updateDate": "2023/09/28 22:08",
+      "view": 456,
+      "address": ["新竹市", "東區", "埔頂路一段"],
+      "floor": 7,
+      "totalFloor": 21,
+      "type": "獨立套房",
+      "title": "新竹市科學園區套房找室友",
+      "square Footage": 15,
+      "houseLayout": "1房1廳1衛",
+      "equipment": ["...", "..."],
+      "price": 20000,
+      "deposit": "一個月",
+      "priceInclude": ["...", "..."],
+      "manageFee": 777,
+      "minPeriod": "一年",
+      "needPartner": 2,
+      "identity": ["...", "..."],
+      "gender": "男性",
+      "canPet": true,
+      "canCooking": false,
+      "minAge": 18,
+      "maxAge": 40,
+      "moveInDate": "2023/11/9",
+      "lifeEquipment": ["...", "...", "..."],
+      "traffic": ["...", "...", "..."],
+      "intro": "我們是整層住家分租! 目前主臥房房客臨時要搬走所以急找室友: 水電瓦斯照帳單用人數平分 家中有貓咪會自由走動 附近有蠻多大賣場跟超市還有百貨,購買日常用品方便 室友們好相處,若有什麼問題都可以一起討論 目前10月可入住 其餘詳細可直接+line詢問!",
+      "photo": ["...", "...", "..."],
+      "agreePublish": true
+    }
+  ],
+  "qas": [
+    {
+      "rentId": 1,
+      "userId": 1,
+      "id": 1,
+      "date": "2023/08/08",
+      "content": "留言留言1"
+    },
+    {
+      "rentId": 1,
+      "userId": 2,
+      "id": 2,
+      "date": "2023/08/09",
+      "content": "留言留言2"
+    },
+    {
+      "rentId": 2,
+      "userId": 2,
+      "id": 3,
+      "date": "2023/08/09",
+      "content": "留言留言3"
+    }
+  ],
+  "favorites": [
+    {
+      "rentId": 1,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "rentId": 2,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "rentId": 1,
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "notification": [
+    {
+      "userId": 1,
+      "rentId": 1,
+      "id": 1,
+      "content": "通知通知1",
+      "img": "....",
+      "date": "2023/08/08"
+    },
+    {
+      "userId": 1,
+      "rentId": 2,
+      "id": 2,
+      "content": "通知通知2",
+      "img": "....",
+      "date": "2023/08/10"
+    },
+    {
+      "userId": 2,
+      "rentId": 1,
+      "id": 3,
+      "content": "通知通知3",
+      "img": "....",
+      "date": "2023/08/12"
+    }
+  ],
+  "users": [
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$nvmuXHTJibomRm/vdx1j6OrftYIm2vS..PO8h3fzh/yRgMCSZl57C",
+      "name": "陳大華",
+      "nickname": "yeeee",
+      "gender": "男性",
+      "photo": "...",
+      "contact": {
+        "person": ["張", "先生"],
+        "phone": "0911-111-222",
+        "email": "test2@gmail.com",
+        "line": "asdddd111122"
+      },
+      "about": "gagjai5ha",
+      "id": 1,
+      "favoriteId": 1,
+      "rentId": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$nvmuXHTJibomRm/vdx1j6OrftYIm2vS..PO8h3fzh/yRgMCSZl57C",
+      "name": "陳大大",
+      "nickname": "yaaaa",
+      "gender": "女性",
+      "photo": "...",
+      "contact": {
+        "person": ["陳", "小姐"],
+        "phone": "0911-111-222",
+        "email": "test2@gmail.com",
+        "line": "asdddd111122"
+      },
+      "about": "gagjai5ha",
+      "id": 2,
+      "favoriteId": 1,
+      "rentId": 1
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "date": "2023/08/08",
+      "title": "公告標題一",
+      "content": "為了回饋粉絲的熱情支持，卡斯伯伯人像攝影展將於 2023-11-05 舉辦特別體驗活動，參與者有機會與卡斯伯伯本人交流，並享有專業導覽。名額有限，先到先得。",
+      "img": "..."
+    },
+    {
+      "id": 2,
+      "date": "2023/08/12",
+      "title": "公告標題二",
+      "content": "為了回饋粉絲的熱情支持，卡斯伯伯人像攝影展將於 2023-11-05 舉辦特別體驗活動，參與者有機會與卡斯伯伯本人交流，並享有專業導覽。名額有限，先到先得。",
+      "img": "..."
+    },
+    {
+      "id": 3,
+      "date": "2023/08/19",
+      "title": "公告標題三",
+      "content": "為了回饋粉絲的熱情支持，卡斯伯伯人像攝影展將於 2023-11-05 舉辦特別體驗活動，參與者有機會與卡斯伯伯本人交流，並享有專業導覽。名額有限，先到先得。",
+      "img": "..."
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "email": "test11@gmail.com",
+      "name": "劉大大",
+      "content": "回饋回饋1"
+    },
+    {
+      "id": 2,
+      "email": "test12@gmail.com",
+      "name": "吳大大",
+      "content": "回饋回饋2"
+    }
+  ]
+}
